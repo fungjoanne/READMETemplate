@@ -1,4 +1,4 @@
-# README Guide
+# README Template Guide
 
 Alyssa Comment from Google Doc: You might also want to note where the file is typically placed in the project folder and how it is displayed in GitHub/GitLab. (It's basically the front page when you visit the root folder for a project.)
 
@@ -17,14 +17,20 @@ Cameron's Comment: I'm against including badges and similar metrics. Reasons:
 3. There are better places to find metrics data (E.g. from github metrics), don't repeat it here.
 
 
+READMes are the first document users read. They tell users what they need to know about your project, if the project is relevant to the user, why they should be invested in the project, and how they can engage with the project. 
+
+Users reviewing projects will expect to have a README available for review. All projects should have a README.
 
 ## The Project Logo
-Add a project logo is optional but considered standard practice in READMEs with projects that already have a logo.
+A project logo is optional, but helpful for users to visually identify your project. Many READMEs include a logo if the project already has an existing logo.
 
 ## The Project Name
 The project name should be prominent and easy for the reader to identify. You may want to also consider adding the following to help identify the project:
 - Project URL
-- Name(s) of project owner(s): consider that adding owners may be better suited for inclusion in a separate contact document instead
+- Name(s) of project owner(s)
+
+    *Note: Consider that adding owners may be better suited for inclusion in a separate contact document instead*
+
 
 ## The Table of Contents
 A Table of Contents is optional, but can be useful especially in the case of lengthy READMEs.
