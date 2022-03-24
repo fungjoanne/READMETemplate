@@ -1,21 +1,20 @@
 # README Guide
 
+---
+## Things to discuss with group 
+
+1. Two types of README: Should we have two templates for READMEs? Find an example... there are repo-level READMEs, folder-level READMEs, and project-level READMEs. READMEs operate at different scopes - which scope are we focusing on for this project? 
+2. README Evolution: How do we convey to users that READMEs are supposed to evolve over time? List out the many functions a README could have, and what other documents could have that function... README can be the starter document and can reference other templates/guides in GoodDocs for more mature projects. For the group: what other types of functions does a README have that could be developed into another template/guide? 
+
 Alyssa Comment from Google Doc: You might also want to note where the file is typically placed in the project folder and how it is displayed in GitHub/GitLab. (It's basically the front page when you visit the root folder for a project.)
 
-To discuss with group: Going to throw a wrench into this process -- I've realized there are two types of README.  A repo has a root README which is usually an overview of the project so that makes sense.  But there is also cases where README are placed in a sub-folder within the repo with the intention of explaining the contents in the folder.  Not sure if we want to handle this delineation here in this template or provide two-templates....  
-With that said, for a root readme, start with the title of the project.
-
-Cameron's comment: +1 for having a second version of a sub-README for lower directories.
-(I'd also note that while there are reasons for having a sub-README, there are usually better reasons for keeping it simple, and just having the one README. (This should be explained in a readme-theory doc.)
-
-To discuss with group: how do we convey to readers that a README changes and evolves over time as the project matures? Specifically, should we include contact information in the README?
-
-To discuss with group: including badges in README or not? What's the benefit?
+FOR NEXT DISCUSSION: To discuss with group: including badges in README or not? What's the benefit?
 Cameron's Comment: I'm against including badges and similar metrics. Reasons:
 1. Keep to task.
 2. Metrics change, and you are introducing a maintenance burden, which effectively means your README will become dated.
 3. There are better places to find metrics data (E.g. from github metrics), don't repeat it here.
 
+---
 
 
 ## The Project Logo
