@@ -23,7 +23,7 @@ All projects include a README, and users will expect to have a README available 
 *Note: As your project evolves and grows, so must your README file. READMEs should be revisited regularly to ensure relevant information is captured for new users.*
 
 ## The Project Logo
-A project logo is optional, but helpful for users to visually identify your project. Many READMEs include a logo if the project already has an existing logo.
+A project logo is optional, but helpful for users to visually identify your project. Many READMEs include a logo, especially if the project already has an existing logo.
 
 ## The Project Name
 The project name should be prominent and easy for the reader to identify. You may want to consider adding the following to help identify the project:
@@ -39,20 +39,21 @@ A Table of Contents is optional, but they can be especially useful in the case o
 For Markdown files, GitHub now automatically generates a Table of Contents in the Header.
 
 ## Project description
-The project description is the most critical part of your README. This is where you will describe what the project does, why the reader should care about your project, and how it will help the reader. This section should be succinct and help the reader determine whether the project is of use to them.  
+The project description is the most critical part of your README. This is where you will describe what the project does, why the reader should care about your project, and how it will help the reader. This section should be succinct, use strong verbs, and help the reader determine whether the project is of use to them.  
 
-Use active voice and strong verbs to describe your project. To help readers understand your project, you may also want to include screenshots or demo videos.
+Screenshots or videos may also be included in this section to help readers understand your project. Any assets you direct users to should exist in the repo.
 
-FOR VIDEOS AND SCREENSHOTS, COMMENT FROM MORGAN: This is really important, and worth indicating these assets should exist in the REPO and not on a 3rd party host.
+Use the below to start filling in your project description. 
 
-(from Daniel Beck)
+
              With *(this project)* you can *(verb)* *(noun)*...
              *(This project)* helps you *(verb)* *(noun)*....
              Unlike *(alternative)*, *)this project)* *(verb)* *(noun)*... 
 
+
 ---
 
-Example: 
+Example: With the Chronologue project, you can discover astronomical events through history. This project helps you understand the evolution of space in a streamlined format. Unlike googling for important space events in the 18th century, the Chronologue project outlines historical events with an easy to use and simple interface.
 
 ---
 
