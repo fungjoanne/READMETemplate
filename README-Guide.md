@@ -16,15 +16,17 @@ Cameron's Comment: I'm against including badges and similar metrics. Reasons:
 
 ---
 
-READMes are the first document users read. They tell users what they need to know about your project, if the project is relevant to the user, why they should be invested in the project, and how they can engage with the project. 
+READMes are the first document users read. They tell users what they need to know about your project, if the project is relevant to the user, and how they can engage with the project. 
 
-Users reviewing projects will expect to have a README available for review. All projects should have a README.
+All projects include a README, and users will expect to have a README available for review. In some cases, larger projects may include sub-READMEs - separate, smaller READMEs that support subfolders in the project.
+
+*Note: As your project evolves and grows, so must your README file. READMEs should be revisited regularly to ensure relevant information is captured for new users.*
 
 ## The Project Logo
 A project logo is optional, but helpful for users to visually identify your project. Many READMEs include a logo if the project already has an existing logo.
 
 ## The Project Name
-The project name should be prominent and easy for the reader to identify. You may want to also consider adding the following to help identify the project:
+The project name should be prominent and easy for the reader to identify. You may want to consider adding the following to help identify the project:
 - Project URL
 - Name(s) of project owner(s)
 
@@ -32,12 +34,12 @@ The project name should be prominent and easy for the reader to identify. You ma
 
 
 ## The Table of Contents
-A Table of Contents is optional, but can be useful especially in the case of lengthy READMEs.
+A Table of Contents is optional, but they can be especially useful in the case of lengthy READMEs. As the project evolves, the README may eventually require a Table of Contents for information organization.
 
-COMMENT FROM MORGAN: Assume TOC will eventually be built.  I believe github now will generate a TOC for a readme based on the Headers in the file if you give it a short-code
+For Markdown files, GitHub now automatically generates a Table of Contents in the Header.
 
 ## Project description
-The project description is the most critical part of your README. This is where you will describe what the project does, why the reader should care about your project, and how it will help the reader. This section should be succinct and clearly help the reader determine immediately whether the project is of use to them.  
+The project description is the most critical part of your README. This is where you will describe what the project does, why the reader should care about your project, and how it will help the reader. This section should be succinct and help the reader determine whether the project is of use to them.  
 
 Use active voice and strong verbs to describe your project. To help readers understand your project, you may also want to include screenshots or demo videos.
 
