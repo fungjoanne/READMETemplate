@@ -14,17 +14,16 @@ Alyssa's comment to above: You could also call this "Troubleshooting." You might
 *Note: Please refer to the README template guide on instructions how to use this template.*
 
 
-## Project Logo 
-Optional but recommended as it signals that that someone cares enough about the project to create a logo.
+## Optional: Project Logo 
+
 
 ## Project Name 
 Should be the first heading or in plain text
 - Project URL (optional)
 - Name of project owner (optional, may want to consider including owners in a contact document instead)
 
-## Table of contents 
-NOTE: Add TOC [link here](https://github.com/thegooddocsproject/templates/blob/dev/CONTRIBUTING.md?plain=1)
-Optional but useful in case of lengthy READMEs
+## Optional: Table of contents 
+
 
 ## Project description 
 Most important part! Should be succinct and clearly describe what the project does. Should help the reader determine immediately whether it is of use to them.  

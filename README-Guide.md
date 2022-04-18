@@ -38,6 +38,9 @@ A Table of Contents is optional, but they can be especially useful in the case o
 
 For Markdown files, GitHub now automatically generates a Table of Contents in the Header.
 
+[link here](https://github.com/thegooddocsproject/templates/blob/dev/CONTRIBUTING.md?plain=1)
+Optional but useful in case of lengthy READMEs
+
 ## Project description
 The project description is the most critical part of your README. This is where you will describe what the project does, why the reader should care about your project, and how it will help the reader. This section should be succinct, use strong verbs, and help the reader determine whether the project is of use to them.  
 
