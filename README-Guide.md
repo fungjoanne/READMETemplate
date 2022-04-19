@@ -22,13 +22,15 @@ All projects include a README, and users will expect to have a README available 
 
 *Note: As your project evolves and grows, so must your README file. READMEs should be revisited regularly to ensure relevant information is captured for new users.*
 
+Badges may also be included in your README 
+
 ## The Project Logo
 A project logo is optional, but helpful for users to visually identify your project. Many READMEs include a logo, especially if the project already has an existing logo.
 
 ## The Project Name
 The project name should be prominent and easy for the reader to identify. You may want to consider adding the following to help identify the project:
 - Project URL
-- Name(s) of project owner(s)
+- Name(s) of project owner(s) , may want to consider including owners in a contact document instead)
 
     *Note: Consider that adding owners may be better suited for inclusion in a separate contact document instead*
 
@@ -37,6 +39,9 @@ The project name should be prominent and easy for the reader to identify. You ma
 A Table of Contents is optional, but they can be especially useful in the case of lengthy READMEs. As the project evolves, the README may eventually require a Table of Contents for information organization.
 
 For Markdown files, GitHub now automatically generates a Table of Contents in the Header.
+
+[link here](https://github.com/thegooddocsproject/templates/blob/dev/CONTRIBUTING.md?plain=1)
+Optional but useful in case of lengthy READMEs
 
 ## Project description
 The project description is the most critical part of your README. This is where you will describe what the project does, why the reader should care about your project, and how it will help the reader. This section should be succinct, use strong verbs, and help the reader determine whether the project is of use to them.  

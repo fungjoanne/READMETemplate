@@ -1,7 +1,5 @@
 # README Template
 
-EDITING NOTE: Add curly brackets around project because writers should be including the name of their project 
-
 ADD THIS: This should not be optional. We use Readmes heavily. This is the most common place our engineers look when they find issues.  A support section that contains common issues and so on...Something like:
 
 Support/Runbook:
@@ -13,39 +11,38 @@ Alyssa's comment to above: You could also call this "Troubleshooting." You might
 
 *Note: Please refer to the README template guide on instructions how to use this template.*
 
+## Optional: {Your Project} logo 
+Link appropriate badges.
 
-## Project Logo 
-Optional but recommended as it signals that that someone cares enough about the project to create a logo.
-
-## Project Name 
-Should be the first heading or in plain text
+## {Your Project Name} 
 - Project URL (optional)
-- Name of project owner (optional, may want to consider including owners in a contact document instead)
+- Name of project owner (optional)
 
 ## Table of contents 
-NOTE: Add TOC [link here](https://github.com/thegooddocsproject/templates/blob/dev/CONTRIBUTING.md?plain=1)
-Optional but useful in case of lengthy READMEs
+{This section is optional.}
+
+1. Heading 1
+2. Heading 2
+3. Heading 3...
 
 ## Project description 
-Most important part! Should be succinct and clearly describe what the project does. Should help the reader determine immediately whether it is of use to them.  
+With *{Your Project Name}* you can *(verb)* *(noun)*...
+*{Your Project Name}* helps you *(verb)* *(noun)*....
+Unlike *(alternative)*, *{Your Project Name}* *(verb)* *(noun)*... 
 
-(from Daniel Beck)
-             With *(this project)* you can *(verb)* *(noun)*...
-             *(This project)* helps you *(verb)* *(noun)*....
-             Unlike *(alternative)*, *)this project)* *(verb)* *(noun)*... 
-
-
-- CHECK THIS OUT: REMOVE?Include badges (optional - pro: signal that maintainers care about code quality; con: problematic if inaccurate, may erode confidence)
-- Include screenshots/demo videos
+{Optional: Include screenshots and/or demo videos}
 
 ## Who this project is for 
-State who may use the project and under what terms (preferable to state this information higher up in README - will help the reader evaluate whether the project is suitable for them).  
+This project is intended for {target audience} who want to {audience objective}. 
 
 ## Project dependencies
-List things you need to use the software and ideally include links to instructions/resources on how to install them. 
+To use {Your Project Name}, you will need to download: 
+- Prerequisite 1 {Optional link to resource}
+- Prerequisite 2 {Optional link to resource}
+- Prerequisite 3 {Optional link to resource}...
 
 ## Instructions for using project
-Describe in a stepwise manner how to use the project. Include only essential information and ensure that it actually works. Steps may include:  
+To get started, {Describe in a stepwise manner how to use the project. Include only essential information and ensure that it actually works. Steps may include:  
 
 NOTE: Update the following to H3s
 - How to get the project
