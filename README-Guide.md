@@ -22,13 +22,15 @@ All projects include a README, and users will expect to have a README available 
 
 *Note: As your project evolves and grows, so must your README file. READMEs should be revisited regularly to ensure relevant information is captured for new users.*
 
+Badges may also be included in your README 
+
 ## The Project Logo
 A project logo is optional, but helpful for users to visually identify your project. Many READMEs include a logo, especially if the project already has an existing logo.
 
 ## The Project Name
 The project name should be prominent and easy for the reader to identify. You may want to consider adding the following to help identify the project:
 - Project URL
-- Name(s) of project owner(s)
+- Name(s) of project owner(s) , may want to consider including owners in a contact document instead)
 
     *Note: Consider that adding owners may be better suited for inclusion in a separate contact document instead*
 
