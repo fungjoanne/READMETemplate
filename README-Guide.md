@@ -1,6 +1,16 @@
 # README Template Guide
 
 ---
+## Comments from Template transferred over
+ADD THIS: This should not be optional. We use Readmes heavily. This is the most common place our engineers look when they find issues.  A support section that contains common issues and so on...Something like:
+
+Support/Runbook:
+- FAQs
+- Runbooks
+- Support Info
+
+Alyssa's comment to above: You could also call this "Troubleshooting." You might want to include a suggested way of formatting this information. I find a table works well. I saw a really good example of this in a hardware installation guide the other day that I can share. Remind me to share it.
+
 ## Things to discuss with group 
 
 1. Two types of README: Should we have two templates for READMEs? Find an example... there are repo-level READMEs, folder-level READMEs, and project-level READMEs. READMEs operate at different scopes - which scope are we focusing on for this project? 
@@ -107,6 +117,9 @@ Include clear instructions on how users can help with the project.
   - Code style/requirements
   - Format for commit messages
 - Closed source projects: instructions on how to report bugs.
+
+NOTE FROM DANIEL B.: It might be wise to call out having a CONTRIBUTING file and linking to it, as an alternative to having this content inline. Particularly on GitHub. The GitHub UI will highlight your CONTRIBUTING file to new contributors, which might be preferable to hoping they've read the whole README
+
 
 ## Resources
 - [Daniel's Checklist](https://github.com/ddbeck/readme-checklist/blob/main/checklist.md)
