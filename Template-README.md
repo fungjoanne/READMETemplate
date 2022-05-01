@@ -1,8 +1,8 @@
 # README Template
 
-*Note: Please refer to the README template guide for instructions on how to use this template.*
+*{Before using this template, read the accompanying README template guide}..*
 
-## {Your Project} logo and bages
+## {Your Project} logo and badges
 {This section is optional. Share your logo and add relevant badges to your README.}
 
 ## {Your Project Name} 
@@ -16,6 +16,8 @@
 3. Heading 3...
 
 ## Project description 
+{Project description example available in README template guide}
+
 With *{Your Project Name}* you can *(verb)* *(noun)*...
 *{Your Project Name}* helps you *(verb)* *(noun)*....
 Unlike *(alternative)*, *{Your Project Name}* *(verb)* *(noun)*... 
@@ -26,10 +28,10 @@ Unlike *(alternative)*, *{Your Project Name}* *(verb)* *(noun)*...
 This project is intended for {target audience} who want to {audience objective}. 
 
 ## Project dependencies
-To use {Your Project Name}, you will need to download: 
-- Prerequisite 1 {Optional link to resource}
-- Prerequisite 2 {Optional link to resource}
-- Prerequisite 3 {Optional link to resource}...
+To use {Your Project Name}, you will need: 
+- Prerequisite 1 
+- Prerequisite 2
+- Prerequisite 3...
 
 ## Instructions for using {Your Project Name}
 Get started with {Your Project Name} by {first step here}
@@ -64,17 +66,21 @@ Get started with {Your Project Name} by {first step here}
 | ----------- | ----------- |
 | {Describe the issue here} | {Write your solution here} |
 | {Describe the issue here} | {Write your solution here} |
+| {Describe the issue here} | {Write your solution here} |
 
 Other troubleshooting supports: 
 - {Link to FAQs}
 - {Link to runbooks}
 - {Link to other relevant support information}
 
-### Optional: Tests
+### Tests
+{}
  
 
 ## Additional documentation
-Include links (if available) and brief descriptions for more resources such as:
+{Include links and brief descriptions for more resources}
+
+More information can be found:
 - Website
 - Twitter handle(s) of project/project owner(s) 
 - Relevant examples
@@ -87,7 +93,9 @@ Include links (if available) and brief descriptions for more resources such as:
  
  
 ## How to get help
-Include links and brief descriptions for avenues for assistance:
+{Include links and brief descriptions for support resources}
+
+
 - Google group/mailing list 
 - Email address(es)
 - IRC, Slack, or Discord channels 
@@ -95,11 +103,9 @@ Include links and brief descriptions for avenues for assistance:
 - Other support resources (such as Stack Overflow tags)
  
 ## Contributing guidelines
-Our contributing guidelines are available {link here}. Include clear instructions on how users can help with the project.
+{Include a link to your contributing guide here. If you do not have a contributing guide, incorporate the information in the README}.
 
 
 
 ## Terms of use
-COMMENT FROM MORGAN: Terms of use is dictated by what is in the LICENSE file.  Unless the individual doesn't have a LICENSE....
-
-I usually put this info at the bottom of a readme.  If you're code is public on github I'm going to assume it is a permissible license.... otherwise what were you thinking putting your proprietary code publicly.... hehe
+{Your Project Name} is licensed under {license}.
