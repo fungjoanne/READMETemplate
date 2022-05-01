@@ -6,8 +6,7 @@
 {This section is optional. Share your logo and add relevant badges to your README.}
 
 ## {Your Project Name} 
-- Project URL (optional)
-- Name of project owner (optional)
+{Optional: Include the project URL and the project owner name}
 
 ## Table of contents 
 {This section is optional.}
@@ -74,33 +73,25 @@ Other troubleshooting supports:
 - {Link to other relevant support information}
 
 ### Tests
-{}
+{This section is optional. Add relevant tests here.}
  
 
 ## Additional documentation
-{Include links and brief descriptions for more resources}
+{Include links and brief descriptions to additional documentation. Examples provided in README template guide.}
 
 More information can be found:
-- Website
-- Twitter handle(s) of project/project owner(s) 
-- Relevant examples
-- Next steps
-- Features planned
-- Known bugs
-- Documentation files
-- Man page
-- Help command(s)
+- Reference link 1
+- Reference link 2
+- Reference link 3...
  
  
 ## How to get help
-{Include links and brief descriptions for support resources}
+{Include links and brief descriptions for support resources. Examples provided in README template guide.}
 
 
-- Google group/mailing list 
-- Email address(es)
-- IRC, Slack, or Discord channels 
-- Bug trackers
-- Other support resources (such as Stack Overflow tags)
+- Reference link 1
+- Reference link 2
+- Reference link 3...
  
 ## Contributing guidelines
 {Include a link to your contributing guide here. If you do not have a contributing guide, incorporate the information in the README}.
