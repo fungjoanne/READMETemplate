@@ -2,10 +2,10 @@
 
 *{Before using this template, read the accompanying README template guide}..*
 
-## {Your Project} logo and badges
+## {Project} logo and badges
 {This section is optional. Share your logo and add relevant badges to your README.}
 
-## {Your Project Name} 
+## {Project Name} 
 {Optional: Include the project URL and the project owner name}
 
 ## Table of contents 
@@ -17,9 +17,11 @@
 ## Project description 
 {Project description example available in README template guide}
 
-With *{Your Project Name}* you can *(verb)* *(noun)*...
-*{Your Project Name}* helps you *(verb)* *(noun)*....
-Unlike *(alternative)*, *{Your Project Name}* *(verb)* *(noun)*... 
+With *{Project Name}* you can *(verb)* *(noun)*...
+
+*{Project Name}* helps you *(verb)* *(noun)*....
+
+Unlike *(alternative)*, *{Project Name}* *(verb)* *(noun)*... 
 
 {Optional: Include screenshots and/or demo videos}
 
@@ -27,15 +29,15 @@ Unlike *(alternative)*, *{Your Project Name}* *(verb)* *(noun)*...
 This project is intended for {target audience} who want to {audience objective}. 
 
 ## Project dependencies
-To use {Your Project Name}, you will need: 
+To use {Project Name}, you will need: 
 - Prerequisite 1 
 - Prerequisite 2
 - Prerequisite 3...
 
-## Instructions for using {Your Project Name}
-Get started with {Your Project Name} by {first step here}
+## Instructions for using {Project Name}
+Get started with {Project Name} by {first step here}
 
-### How to get {Your Project Name}
+### How to get {Project Name}
 1. {Write the step here. Use a verb to start.}
 
     {Explanatory text here}
@@ -48,32 +50,29 @@ Get started with {Your Project Name} by {first step here}
     
     b. {Substep 2}
 
-### How to install {Your Project Name}
+### How to install {Project Name}
 1. {Write the step here. Use a verb to start.}
 
 2. {Write the step here. Use a verb to start.}
-### How to configure {Your Project Name}
+### How to configure {Project Name}
 1. {Write the step here. Use a verb to start.}
 
 2. {Write the step here. Use a verb to start.}
-### How to run {Your Project Name}
+### How to run {Project Name}
 1. {Write the step here. Use a verb to start.}
 
 2. {Write the step here. Use a verb to start.}
 ### Troubleshooting
 | Issue | Solution |
 | ----------- | ----------- |
-| {Describe the issue here} | {Write your solution here} |
-| {Describe the issue here} | {Write your solution here} |
-| {Describe the issue here} | {Write your solution here} |
+| {Describe the issue here} | {Write solution here} |
+| {Describe the issue here} | {Write solution here} |
+| {Describe the issue here} | {Write solution here} |
 
 Other troubleshooting supports: 
 - {Link to FAQs}
 - {Link to runbooks}
 - {Link to other relevant support information}
-
-### Tests
-{This section is optional. Add relevant tests here.}
  
 
 ## Additional documentation
@@ -99,4 +98,4 @@ More information can be found:
 
 
 ## Terms of use
-{Your Project Name} is licensed under {license}.
+{Project Name} is licensed under {license}.
