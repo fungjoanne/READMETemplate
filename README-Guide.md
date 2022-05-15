@@ -6,9 +6,9 @@ Read this document before you start working on the README template.
 *Note: As your project evolves and grows, so should your README file. READMEs should be revisited regularly to ensure relevant information is captured for new users.*
 
 ## Why do I need a README?
-READMes are the first document users find and read. They tell users what they need to know about your project, if the project is relevant to the user, and how users can engage with the project. 
+READMes are the first document users find and read. All projects include a README, and users will expect to find one in your project's root folder. A README tells users what they need to know about your project, if the project is relevant to the user, and how users can engage with the project. Your README is your project's first impression.
 
-All projects include a README. Users will expect to see a README in a project's root folder. In some cases, larger projects may include sub-READMEs, or separate, smaller READMEs that support subfolders in the project.
+In some cases, larger projects may include sub-READMEs, or separate, smaller READMEs that support subfolders in the project.
 
 ## Content of the README template guide
 The following sections provide guidance and context on how to fill out the README template.
@@ -18,14 +18,14 @@ This section is optional.
 
 A project logo can be helpful for users to visually identify your project. 
 
-Embed relevant badges to your README to add credibility to your project. Badges highlight important information and can help users determine project fit quickly. [Learn more about badges](https://github.com/badges/shields)
+Embed relevant badges to your README to add credibility to your project. Badges highlight important information and can help users determine project fit quickly. [Learn more about badges.](https://github.com/badges/shields)
 
 ### About the "Project name" section
 The project name should be prominent in the README and easy for users to identify. You may want to consider adding the following to help identify the project:
 - Project URL
 - Name(s) of project owner(s)
 
-    *Note: Consider the stage your project is at. Names associated with the project may be better situated in a separate contact document.*
+*Note: Consider the stage your project is at. Names associated with the project may be better situated in a separate contact document.*
 
 
 ### About the "Table of contents" section
@@ -44,7 +44,9 @@ You can use the below project description format to start filling in your sectio
 
 
 With *(this project)* you can *(verb)* *(noun)*...
+
 *(This project)* helps you *(verb)* *(noun)*....
+
 Unlike *(alternative)*, *)this project)* *(verb)* *(noun)*... 
 
 
@@ -84,7 +86,7 @@ Provide guidance for users seeking assistance by including links and brief descr
 - Stack overflow
  
 ### About the "Contributing guidelines" section
-Most projects will have a contributing guidelines document separate from the README, but you can provide clear instructions on how users can contribute to the project in your README or a link to your document. A Good Docs contributing guidelines template is available here [LINK TO KAYLA'S TEMPLATE].
+While most projects will have a separate contributing guidelines document, you can provide clear instructions on how users can contribute to the project in your README. A Good Docs contributing guidelines template is available here [LINK TO KAYLA'S TEMPLATE].
 
 
 ### About the "Terms of use" section
